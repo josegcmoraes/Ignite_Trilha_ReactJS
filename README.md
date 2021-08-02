@@ -1,13 +1,13 @@
 # Ignite_Trilha_ReactJS
 
 Trilha React - Nextjs @Rocketseat
--Módulo 01-github-explorer
--Módulo 02-primeira-aplicacao-com-reactjs
--Módulo 03-
+- Módulo 01-github-explorer
+- Módulo 02-primeira-aplicacao-com-reactjs
+- Módulo 03-
 
-##Desafios
--Desafio 01- Conceitos do react
--Desafio 02- Componentizando a aplicação
+## Desafios
+- Desafio 01- Conceitos do react
+- Desafio 02- Componentizando a aplicação
 
 ## Módulo 01-github-explorer
 #### M1.1 Configurando o ambiente
@@ -29,15 +29,15 @@ Trilha React - Nextjs @Rocketseat
 - estado do componente
 - a imutabilidade no react
 - fast refresh no webpack
-#### 1.3 Chamadas HTTP
+#### M1.3 Chamadas HTTP
 - estilização da listagem
 - utilizando o useEffect
 - listando repositórios
-#### 1.4 Usando TypeScript
+#### M1.4 Usando TypeScript
 - fundamentos do typescript
 - typescript no reactjs
 - componentes com typescript
-#### 1.5 Finalizando a aplicação
+#### M1.5 Finalizando a aplicação
 - utilizando react devtools
 - finalização do módulo
 
@@ -47,7 +47,9 @@ Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu a
 Nesse desafio iremos dividir uma aplicação em componentes afim de isolar as responsabilidades e facilitar a manutenção do código.
 ## Módulo 02-primeira-aplicacao-com-reactjs
 #### 2.1
-
+-
+-
+-
 
 
 Desenvolvido por José Geraldo
