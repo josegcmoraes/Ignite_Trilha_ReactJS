@@ -1,0 +1,32 @@
+div.class-counter-section{
+    margin: 40px;
+    border-top: #000 1px solid;
+    border-bottom: #000 1px solid;
+    
+    div.class-counter{
+        display: flex;
+        align-items: baseline;
+        margin-top: 8px;
+
+        button{
+            margin-top: 8px;
+            width: 90px;
+            height: 30px;
+            cursor: pointer;
+
+            & + button{
+                margin-left: 15px;
+            }
+        }
+        h2 {
+            margin-right: 25px;
+        }
+    }
+    h3 {
+        display: flex;
+        margin-top: 12px;
+        margin-bottom: 8px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+}
