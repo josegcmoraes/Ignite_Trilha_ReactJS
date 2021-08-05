@@ -32,7 +32,7 @@ export function Counter() {
     return (
         <div className="class-counter-section">
             <div className="class-counter">
-                <h2>{counter}</h2>
+                <h2>Counter: {counter}</h2>
                 <button type="button" onClick={increment}>
                     Increment
                 </button>
