@@ -40,7 +40,9 @@ Trilha React - Nextjs @Rocketseat
 #### M1.5 Finalizando a aplicação
 - utilizando react devtools
 - finalização do módulo
-
+### Tela de execução
+<img src="https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/blob/main/01-github-explorer/execucao1.png" width="500" height="444">
+<img src="https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/blob/main/01-github-explorer/execucao2.png" width="500" height="443">
 ## Desafio 01- Conceitos do react
 Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS. Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
 ## Desafio 02- Componentizando a aplicação
