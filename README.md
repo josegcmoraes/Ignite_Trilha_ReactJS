@@ -1,9 +1,9 @@
 # Ignite_Trilha_ReactJS
 
 Trilha React - Nextjs @Rocketseat
-- Módulo 01-github-explorer
-- Módulo 02-primeira-aplicacao-com-reactjs
-- Módulo 03-
+- [Módulo 01-github-explorer](https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/tree/main/01-github-explorer)
+- [Módulo 02-primeira-aplicacao-com-reactjs](https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/)
+- [Módulo 03- ](https://)
 
 ## Desafios
 - [Desafio 01- Conceitos do react](https://github.com/josegcmoraes/Ignite_Trilha_ReactJS_Desafio-01_ConceitosDoReact)
