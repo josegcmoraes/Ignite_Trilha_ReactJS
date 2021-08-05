@@ -41,8 +41,8 @@ Trilha React - Nextjs @Rocketseat
 - utilizando react devtools
 - finalização do módulo
 ### Tela de execução
-<img src="https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/blob/main/01-github-explorer/execucao1.png" width="500" height="450">
-<img src="https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/blob/main/01-github-explorer/execucao2.png" width="500" height="449">
+<img src="https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/blob/main/01-github-explorer/execucao1.png" width="500" height="436">
+<img src="https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/blob/main/01-github-explorer/execucao2.png" width="500" height="435">
 
 ## Desafio 01- Conceitos do react
 - [Visualizar repositório - Desafio 01](https://github.com/josegcmoraes/Ignite_Trilha_ReactJS_Desafio-01_ConceitosDoReact)
