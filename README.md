@@ -45,10 +45,11 @@ Trilha React - Nextjs @Rocketseat
 <img src="https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/blob/main/01-github-explorer/execucao2.png" width="500" height="443">
 
 ## Desafio 01- Conceitos do react
-[Visualizar - Desafio 01](https://github.com/josegcmoraes/Ignite_Trilha_ReactJS_Desafio-01_ConceitosDoReact)
-Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS. Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
+- [Visualizar repositório - Desafio 01](https://github.com/josegcmoraes/Ignite_Trilha_ReactJS_Desafio-01_ConceitosDoReact)
+- Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS. Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
 ## Desafio 02- Componentizando a aplicação
-Nesse desafio iremos dividir uma aplicação em componentes afim de isolar as responsabilidades e facilitar a manutenção do código.
+- [Visualizar repositório - Desafio 01](https://github.com/josegcmoraes/Ignite_Trilha_ReactJS_Desafio-02_ComponentizacaoDaAplicacao)
+- Nesse desafio iremos dividir uma aplicação em componentes afim de isolar as responsabilidades e facilitar a manutenção do código.
 
 ## Módulo 02-primeira-aplicacao-com-reactjs
 #### 2.1
