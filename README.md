@@ -6,8 +6,9 @@ Trilha React - Nextjs @Rocketseat
 - Módulo 03-
 
 ## Desafios
-- Desafio 01- Conceitos do react
-- Desafio 02- Componentizando a aplicação
+- [Desafio 01- Conceitos do react](https://github.com/josegcmoraes/Ignite_Trilha_ReactJS_Desafio-01_ConceitosDoReact)
+- [Desafio 02- Componentizando a aplicação](https://github.com/josegcmoraes/Ignite_Trilha_ReactJS_Desafio-02_ComponentizacaoDaAplicacao)
+- [Desafio 03- Criando um hook de carrinho de compras](https://)
 
 ## Módulo 01-github-explorer
 #### M1.1 Configurando o ambiente
