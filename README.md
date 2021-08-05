@@ -41,21 +41,61 @@ Trilha React - Nextjs @Rocketseat
 - utilizando react devtools
 - finalização do módulo
 ### Tela de execução
-<img src="https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/blob/main/01-github-explorer/execucao1.png" width="500" height="444">
-<img src="https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/blob/main/01-github-explorer/execucao2.png" width="500" height="443">
+<img src="https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/blob/main/01-github-explorer/execucao1.png" width="500" height="450">
+<img src="https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/blob/main/01-github-explorer/execucao2.png" width="500" height="449">
 
 ## Desafio 01- Conceitos do react
 - [Visualizar repositório - Desafio 01](https://github.com/josegcmoraes/Ignite_Trilha_ReactJS_Desafio-01_ConceitosDoReact)
 - Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS. Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
 ## Desafio 02- Componentizando a aplicação
-- [Visualizar repositório - Desafio 01](https://github.com/josegcmoraes/Ignite_Trilha_ReactJS_Desafio-02_ComponentizacaoDaAplicacao)
+- [Visualizar repositório - Desafio 02](https://github.com/josegcmoraes/Ignite_Trilha_ReactJS_Desafio-02_ComponentizacaoDaAplicacao)
 - Nesse desafio iremos dividir uma aplicação em componentes afim de isolar as responsabilidades e facilitar a manutenção do código.
 
 ## Módulo 02-primeira-aplicacao-com-reactjs
-#### 2.1
--
--
--
+#### M2.1 Estrutura da aplicação
+- introdução do módulo
+- estrutura com create-react-app
+- exportando assets do figma
+- instalando styled components
+- criando estilos globais
+- fontes do google fonts
+#### M2.2 Componentização
+- componente: Header
+- componente: Summary
+- componente: TransactionTable
+#### M2.3 Consumindo API
+- criando front-end sem back-end
+- configurando MirageJS
+- configurando cliente do axios
+#### M2.4 Modal & Forms
+- configurando modal de criação
+- componente: NewTransactionModal
+- estrutura do formulário
+- estilizando modal
+- criando botões de tipo
+- funcionamento dos botões
+- cores dos botões
+- salvando dados do form
+- inserindo transação na api
+- listando transações e seeds
+- formatando valores
+#### M2.5 Contextos e Hooks
+- introdução à contextos
+- a context api no react
+- carregando transações
+- movendo criação para o context
+- finalizando inserção
+- calculando resumo
+- criando hook
+### Tela de execução
+<img src="" width="500" height="0">
+<img src="" width="500" height="0">
+
+## Desafio 03- Criando um hook de carrinho de compras
+- [Visualizar repositório - Desafio 03](https://)
+- Nesse desafio, você deverá criar um hook para gerenciar um carrinho de compras.
+
+
 
 
 Desenvolvido por José Geraldo
