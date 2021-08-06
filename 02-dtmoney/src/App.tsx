@@ -1,4 +1,6 @@
 // import './App.css';
+import { Dashboard } from "./Components/Dashboard";
+import { Header } from "./Components/Header";
 import { GlobalStyle } from "./styles/global";
 // import styled from 'styled-components';
 
@@ -9,11 +11,12 @@ import { GlobalStyle } from "./styles/global";
 
 export function App() {
   return (
-    <div className="App">
+    <>
       {/* <Title >Hey td bem</Title> */}
+      <Header />
+      <Dashboard />
       <GlobalStyle />
-      <h1>hi all ... font em nm</h1>
-    </div>
+    </>
   );
 }
 
