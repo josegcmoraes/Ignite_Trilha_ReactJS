@@ -1,6 +1,9 @@
 // import './App.css';
+import { useState } from 'react';
+import Modal from 'react-modal';
 import { Dashboard } from "./Components/Dashboard";
 import { Header } from "./Components/Header";
+import { NewTransactionModal } from './Components/NewTransacionModal';
 import { GlobalStyle } from "./styles/global";
 // import styled from 'styled-components';
 
@@ -9,12 +12,28 @@ import { GlobalStyle } from "./styles/global";
 //   font-size: 64px;
 // `
 
+Modal.setAppElement('#root');
+
 export function App() {
+  const [isNewTransactionModalOpen, setIsNewTransactionModalOpen] = useState(false);
+
+  function handleOpenNewTransactionModal() {
+    setIsNewTransactionModalOpen(true);
+  }
+
+  function handleCloseNewTransactionModal() {
+    setIsNewTransactionModalOpen(false);
+  }
   return (
     <>
       {/* <Title >Hey td bem</Title> */}
-      <Header />
+      <Header openNewTransactionModal={handleOpenNewTransactionModal} />
       <Dashboard />
+      <NewTransactionModal
+        isOpen={isNewTransactionModalOpen}
+        onRequestClose={handleCloseNewTransactionModal}
+      />
+
       <GlobalStyle />
     </>
   );
