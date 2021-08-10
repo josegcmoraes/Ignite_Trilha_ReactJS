@@ -1,15 +1,18 @@
-import { useEffect, useState } from "react";
-import { api } from "../../services/api";
+// import { useEffect, useState, useContext } from "react";
+// import { useContext } from "react";
+import { useTransactions } from "../../hooks/useTransactions";
+// import { api } from "../../services/api";
+// import { TransactionsContext } from "../../TransactionsContext";
 import { Container } from "./styles";
 
-interface Transaction {
-    id: number;
-    title: string;
-    category: string;
-    type: string;
-    amount: number;
-    createAt: string;
-}
+// interface Transaction {
+//     id: number;
+//     title: string;
+//     category: string;
+//     type: string;
+//     amount: number;
+//     createAt: string;
+// }
 
 
 export function TransactionsTable() {
@@ -18,12 +21,14 @@ export function TransactionsTable() {
     //         .then(response => response.json())
     //         .then(data => console.log(data))
     // }, []);
-    const [transactions, setTransactions] = useState<Transaction[]>([]);
-    useEffect(() => {
-        api.get('/transactions')
-            // .then(response => console.log(response.data))
-            .then(response => setTransactions(response.data.transactions))
-    }, []);
+    const { transactions } = useTransactions();
+
+    // const [transactions, setTransactions] = useState<Transaction[]>([]);
+    // useEffect(() => {
+    //     api.get('/transactions')
+    //         // .then(response => console.log(response.data))
+    //         .then(response => setTransactions(response.data.transactions))
+    // }, []);
 
     return (
         <Container>
@@ -51,7 +56,7 @@ export function TransactionsTable() {
                                 <td>
                                     {new Intl.DateTimeFormat('pt-BR').format(
                                         new Date(transaction.createAt)
-                                    )}
+                                    ) || transaction.createAt}
                                 </td>
                             </tr>
                         );

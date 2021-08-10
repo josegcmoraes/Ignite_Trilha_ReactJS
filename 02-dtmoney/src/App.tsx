@@ -5,6 +5,7 @@ import { Dashboard } from "./Components/Dashboard";
 import { Header } from "./Components/Header";
 import { NewTransactionModal } from './Components/NewTransacionModal';
 import { GlobalStyle } from "./styles/global";
+import { TransactionsProvider } from './hooks/useTransactions';
 // import styled from 'styled-components';
 
 // const Title = styled.h1`
@@ -25,7 +26,7 @@ export function App() {
     setIsNewTransactionModalOpen(false);
   }
   return (
-    <>
+    <TransactionsProvider>
       {/* <Title >Hey td bem</Title> */}
       <Header openNewTransactionModal={handleOpenNewTransactionModal} />
       <Dashboard />
@@ -35,7 +36,7 @@ export function App() {
       />
 
       <GlobalStyle />
-    </>
+    </TransactionsProvider>
   );
 }
 
