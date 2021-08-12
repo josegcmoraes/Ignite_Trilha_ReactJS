@@ -9,6 +9,7 @@ Trilha React - Nextjs @Rocketseat
 - [Desafio 01- Conceitos do react](https://github.com/josegcmoraes/Ignite_Trilha_ReactJS_Desafio-01_ConceitosDoReact)
 - [Desafio 02- Componentizando a aplicação](https://github.com/josegcmoraes/Ignite_Trilha_ReactJS_Desafio-02_ComponentizacaoDaAplicacao)
 - [Desafio 03- Criando um hook de carrinho de compras](https://)
+- [Desafio 04- Refactoring de classes e typescript](https://)
 
 ## Módulo 01-github-explorer
 #### M1.1 Configurando o ambiente
@@ -42,8 +43,8 @@ Trilha React - Nextjs @Rocketseat
 - utilizando react devtools
 - finalização do módulo
 ### Tela de execução
-<img src="https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/blob/main/01-github-explorer/execucao1.png" width="500" height="436">
-<img src="https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/blob/main/01-github-explorer/execucao2.png" width="500" height="435">
+<img src="https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/blob/main/01-github-explorer/execucao1.png" width="500" >
+<img src="https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/blob/main/01-github-explorer/execucao2.png" width="500" >
 
 ## Desafio 01- Conceitos do react
 - [Visualizar repositório - Desafio 01](https://github.com/josegcmoraes/Ignite_Trilha_ReactJS_Desafio-01_ConceitosDoReact)
@@ -95,6 +96,33 @@ Trilha React - Nextjs @Rocketseat
 ## Desafio 03- Criando um hook de carrinho de compras
 - [Visualizar repositório - Desafio 03](https://)
 - Nesse desafio, você deverá criar um hook para gerenciar um carrinho de compras.
+
+## Desafio 04- Refactoring de classes e typescript
+- [Visualizar repositório - Desafio 04](https://)
+- Nesse desafio, você deverá migrar uma aplicação de Javascript e Class Components para Typescript e Function Components
+
+## Módulo 03-Fundamentos do Next.JS
+#### M3.1.1 Estrutura da aplicação
+- introdução ao módulo
+- fluxo da aplicação
+- fundamentos do next.js
+- criando estrutura next.js
+- adicionando typescript
+- estilizando com sass
+- configurando fonte externa
+- title dinâmico por página
+- estilos globais do app
+#### M3.1.1 Componentes e páginas
+- componente: Header
+- componente: SignInButton
+- página Home
+- componente: SubscribeButton
+#### M3.1.1 Integração com API
+- configurando Stripe
+- consumindo API do Stripe (SSR)
+- static site generation (SSG)
+
+
 
 
 
