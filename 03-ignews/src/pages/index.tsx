@@ -22,17 +22,12 @@ export default function Home() {
             <span>for $9.90 month</span>
           </p>
           <SubscribeButton />
-          {/* <h1 className={styles.title}>
-            Desc
-            <span> Ig.News </span>
-            2021
-          </h1> */}
+
         </section>
 
         <img src="/images/avatar.svg" alt="Girl coding" />
 
       </main>
-
 
     </>
   )
