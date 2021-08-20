@@ -3,7 +3,7 @@
 Trilha React - Nextjs @Rocketseat
 - [Módulo 01-fundamentos-do-reactjs (github-explorer)](https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/tree/main/01-github-explorer)
 - [Módulo 02-primeira-aplicacao-com-reactjs (dtmoney) ](https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/tree/main/02-dtmoney)
-- [Módulo 03-fundamentos-do-nextjs (ignews) ](https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/)
+- [Módulo 03-fundamentos-do-nextjs (ignews) ](https://github.com/josegcmoraes/Ignite_Trilha_ReactJS/tree/main/03-ignews)
 - 
 
 ## Desafios
