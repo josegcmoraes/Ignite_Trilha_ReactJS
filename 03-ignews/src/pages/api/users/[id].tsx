@@ -5,11 +5,11 @@ export default (request: NextApiRequest, response: NextApiResponse) => {
     // console.log(id)
 
     const users = [
-        { id: 1, name: 'Diego' },
-        { id: 2, name: 'Ana' },
-        { id: 3, name: 'Rafaella' },
+        { id: 1, name: 'not found' },
+        { id: 2, name: 'Laís' },
+        { id: 3, name: 'Ana Carolina' },
         { id: 4, name: 'Jose' },
-
+        { id: 5, name: 'Joice' },
     ]
     return response.json(users);
 }

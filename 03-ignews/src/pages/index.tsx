@@ -15,7 +15,7 @@ interface HomeProps {
 }
 
 export default function Home({ product }: HomeProps) {
-  console.log(product)
+  // console.log(product)
   return (
     <>
       <Head>
@@ -47,7 +47,7 @@ export default function Home({ product }: HomeProps) {
 
 // export const getServerSideProps: GetServerSideProps = async () => {
 export const getStaticProps: GetStaticProps = async () => {
-  console.log('oke');
+  // console.log('oke');
   const price = await stripe.prices.retrieve('price_1JQMitILJm0pnQrF30Ype2NT', {
     expand: ['product']
   })
@@ -61,8 +61,7 @@ export const getStaticProps: GetStaticProps = async () => {
   }
 
 
-  console.log(price);
-
+  // console.log(price);
   return {
     props: {
       product,
